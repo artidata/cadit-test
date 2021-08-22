@@ -1,0 +1,34 @@
+{
+  "array": [
+    {
+      "roomArea": "roomArea1",
+      "temperature": 21.63635488029761,
+      "humidity": 90.82746806047933,
+      "timestamp": 1629619031728
+    },
+    {
+      "roomArea": "roomArea2",
+      "temperature": 16.811600038670687,
+      "humidity": 96.62697138875525,
+      "timestamp": 1629619031728
+    },
+    {
+      "roomArea": "roomArea3",
+      "temperature": 21.06816326529569,
+      "humidity": 95.94219931018034,
+      "timestamp": 1629619031728
+    },
+    {
+      "roomArea": "roomArea4",
+      "temperature": 28.542925619228107,
+      "humidity": 88.52773131358957,
+      "timestamp": 1629619031728
+    },
+    {
+      "roomArea": "roomArea5",
+      "temperature": 21.529152271006314,
+      "humidity": 87.7717925325325,
+      "timestamp": 1629619031728
+    }
+  ]
+}
