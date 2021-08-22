@@ -25,7 +25,7 @@ function problem3_1() {
     out = tidy(
       out,
       mutate({
-        temperature: d => sampleData.array[Math.floor(Math.random() * sampleData.array.length)].temperature,
+        temperature: d => sampleData.array[Math.floor(Math.random() * sampleData.array.length)].temperature + (Number(d.roomArea.slice(-1)) - 3)*2, //temperature difference for each room
         humidity: d => sampleData.array[Math.floor(Math.random() * sampleData.array.length)].humidity,
         timestamp: date,
       })
